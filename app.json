@@ -11,12 +11,6 @@
       "adaptiveIcon": {
         "backgroundColor": "#05070A"
       }
-    },
-    "plugins": ["expo-build-properties"],
-    "extra": {
-      "eas": {
-        "projectId": "truecal"
-      }
     }
   }
 }
