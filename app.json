@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "TrueCal",
+    "slug": "truecal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.truedevs.truecal",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#05070A"
+      }
+    },
+    "plugins": ["expo-build-properties"],
+    "extra": {
+      "eas": {
+        "projectId": "truecal"
+      }
+    }
+  }
+}
